@@ -4,6 +4,11 @@
 # 
 # Use the variable, loops, and conditionals instead.
 
+name_1 = "James"
+name_2 = "Yolanda"
+name_3 = "Red"
+name_4 = "Fatimah"
+
 list_of_people = [
   { :name => "James", :age => 16 },
   { :name => "Lee", :age => 12 },
@@ -13,4 +18,7 @@ list_of_people = [
   { :name => "Fatimah", :age => 31 },
   { :name => "Carl", :age => 9 },
 ]
-
+p name_1
+p name_2
+p name_3
+p name_4
